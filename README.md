@@ -15,3 +15,8 @@ Project showcase.
 
 ## Usage
 You can use this app directly on the browser.
+
+# TODO
+- Countdown timer until dynamic date.
+- User can change the target date using a date picker.
+- Publish on Codepen.
